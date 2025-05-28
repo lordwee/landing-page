@@ -21,7 +21,7 @@ a, .text, .placeholder {
     align-items: center;
     background-color: #1F2937;
     gap: 20px;
-    padding:0 200px;
+    padding:0 20%;
     
 }
 .footer {
@@ -41,7 +41,8 @@ a, .text, .placeholder {
 
 .hero-container {
     display: flex;
-    padding: 120px 200px;
+    justify-content: space-between;
+    padding: 120px 20%;
     background-color: #1F2937;
     gap: 70px;
 
@@ -128,7 +129,7 @@ ul {
     flex-direction: column;
     justify-content: center;
     background-color: #E5e7EB;
-    padding: 80px 310px;
+    padding: 80px 28%;
     
 }
 .quote {
@@ -151,7 +152,7 @@ ul {
     justify-content: space-around;
     padding: 55px 0px;
     border-radius: 10px;
-    margin: 100px 200px;
+    margin: 100px 18%;
 }
 
 .sub-cta {
